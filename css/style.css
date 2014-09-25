@@ -48,7 +48,7 @@ a:hover {
 --------------------------------------------------------------- */
 
 .l-content {
-	background: #000;
+	background: linear-gradient(to bottom, #2c383c 0%, #2a363a 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
 	height: 627px;
 	width: 27.7%;
 	padding: 0px;
@@ -402,6 +402,8 @@ a:hover {
 	font-size: 11px;
 	font-style: italic;
 	color: #2c383c;
+    line-height:18px;
+    margin-top:10px;
 }
 
 .overlay-inner {

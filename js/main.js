@@ -47,6 +47,15 @@ jQuery(document).ready(function($) {
 	$('.skill3').css('width', '76%');
 	$('.skill4').css('width', '53%');
 	$('.skill5').css('width', '69%');
+	$('.skill6').css('width', '70%');
+	$('.skill7').css('width', '70%');
+	$('.skill8').css('width', '60%');
+	$('.skill9').css('width', '40%');
+	$('.skill10').css('width', '80%');
+	$('.skill11').css('width', '40%');
+	$('.skill12').css('width', '40%');
+	$('.skill13').css('width', '60%');
+	$('.skill14').css('width', '50%');
 	},{accX: 0, accY: -150});
 });
 
@@ -55,8 +64,8 @@ $(function () {
   "use strict";
 	var map = new GMaps({
 	el: "#map",
-	lat: 40.714353,
-	lng: -74.005973,
+	lat: 19.3119321,
+	lng: 72.8526812,
           zoom: 15, 
           zoomControl : true,
           zoomControlOpt: {
@@ -87,8 +96,8 @@ $(function () {
       map.setStyle("map_style");
 
       map.addMarker({
-        lat: 40.714353,
-        lng: -74.005973,
+        lat: 19.3119321,
+        lng: 72.8526812,
         icon: "images/marker.png"
       });
 });
