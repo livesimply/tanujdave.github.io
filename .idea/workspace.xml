@@ -271,7 +271,6 @@
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\profile\themillionways\A Million Ways - Dev - Full Site 2014-09-18 11-38-50.png" afterPath="" />
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\profile\themillionways\A Million Ways - Dev - Full Site 2014-09-18 11-39-05.png" afterPath="" />
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\profile\themillionways\A Million Ways - Dev - Full Site 2014-09-18 11-41-19.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\s.html" afterPath="" />
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\site1\backup\images\body-bg.jpg" afterPath="" />
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\site1\backup\images\download-button.png" afterPath="" />
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\site1\backup\images\github-button.png" afterPath="" />
@@ -402,11 +401,6 @@
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\stylesheets\pygment_trac.css" afterPath="" />
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\stylesheets\stylesheet.css" afterPath="" />
       <change type="DELETED" beforePath="E:\wamp\www\tanujdave.github.io\youtu.be\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile/nikeemportal/index.html" afterPath="$PROJECT_DIR$/profile/nikeemportal/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tanujdave.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -432,7 +426,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="125" selection-start="3448" selection-end="3448" vertical-scroll-proportion="0.35307783" vertical-offset="988" max-vertical-offset="12903">
+            <state line="79" column="39" selection-start="3506" selection-end="3506" vertical-scroll-proportion="0.41231126" vertical-offset="988" max-vertical-offset="12903">
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -876,7 +870,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="125" selection-start="3448" selection-end="3448" vertical-scroll-proportion="0.35307783" vertical-offset="988" max-vertical-offset="12903">
+        <state line="79" column="39" selection-start="3506" selection-end="3506" vertical-scroll-proportion="0.41231126" vertical-offset="988" max-vertical-offset="12903">
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
